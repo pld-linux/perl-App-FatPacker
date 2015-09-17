@@ -7,14 +7,13 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	App::FatPacker - pack your dependencies onto your script file
 Name:		perl-App-FatPacker
-Version:	0.009016
+Version:	0.010003
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/App/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8268d6a548272048e396575f086889c5
-# generic URL, check or change before uncommenting
+# Source0-md5:	86391ef2c798edd830f4f3e69ff2885f
 URL:		http://search.cpan.org/dist/App-FatPacker/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
