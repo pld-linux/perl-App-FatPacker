@@ -4,7 +4,6 @@
 
 %define		pdir	App
 %define		pnam	FatPacker
-%include	/usr/lib/rpm/macros.perl
 Summary:	App::FatPacker - pack your dependencies onto your script file
 Name:		perl-App-FatPacker
 Version:	0.010003
