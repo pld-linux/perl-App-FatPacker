@@ -7,7 +7,7 @@
 Summary:	App::FatPacker - pack your dependencies onto your script file
 Name:		perl-App-FatPacker
 Version:	0.010003
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
