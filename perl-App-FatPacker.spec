@@ -6,13 +6,13 @@
 %define		pnam	FatPacker
 Summary:	App::FatPacker - pack your dependencies onto your script file
 Name:		perl-App-FatPacker
-Version:	0.010003
-Release:	2
+Version:	0.010008
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/App/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	86391ef2c798edd830f4f3e69ff2885f
+Source0:	https://www.cpan.org/modules/by-module/App/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	bcd7d18fbb9431f9dcd9a27743680a3e
 URL:		http://search.cpan.org/dist/App-FatPacker/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
